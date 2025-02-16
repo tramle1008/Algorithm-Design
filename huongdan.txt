@@ -5,4 +5,5 @@ $ git push origin main
 ----
 $git add huongdan.txt
 $git commit -m "Cập nhật nội dung"
-$ git push origin main
+$ git push origin main --force
+
